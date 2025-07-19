@@ -1,4 +1,4 @@
-# employee-salary-prediction
+
 # 💼 Employee Salary Prediction (Glassdoor Data)
 
 This project predicts employee salaries based on job descriptions and other features using machine learning. It includes a **Jupyter Notebook** for EDA & model training, and a **Streamlit web app** for live predictions.
